@@ -1,1 +1,0 @@
-insert into department values (1, 'МТУСИ', 'Единый деканат')
